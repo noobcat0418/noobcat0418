@@ -1,6 +1,8 @@
-# I'm Mike 👋
+# 
 
-**Senior QA Automation Engineer | 🎯 Test Automation Develper | CI/CD Enthusiast** 🤖
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&background=0D111700&vCenter=true&width=435&lines=I'm+Mike+%F0%9F%91%8B;QA+Automation+Engineer;Test+Architect" alt="Typing SVG" /></a>
+
+**Senior QA Automation Engineer | 🎯 Test Architect | CI/CD Enthusiast** 🤖
 
 ---
 
@@ -20,7 +22,8 @@
 ### 📫 Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-cervantes-67b5b72b1/)
-[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=flat&logo=google-chrome&logoColor=white)](YOUR_PORTFOLIO_URL)
+[![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e81b6f8b5105f447)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-00D9FF?style=flat&logo=google-chrome&logoColor=white)](https://mike-cervantes.vercel.app/)
 
 ---
 
