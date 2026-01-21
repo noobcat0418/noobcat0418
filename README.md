@@ -6,7 +6,7 @@
 
 ---
 
-### 🛠️ Tech Stack & Tools:
+### Tech Stack & Tools:
 
 ![Selenium](https://img.shields.io/badge/-Selenium-43B02A?style=flat&logo=selenium&logoColor=white)
 ![Playwright](https://img.shields.io/badge/-Playwright-2EAD33?style=flat&logo=playwright&logoColor=white)
@@ -19,7 +19,7 @@
 
 ---
 
-### 📫 Connect with Me:
+### Connect with Me:
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mike-cervantes-67b5b72b1/)
 [![Upwork](https://img.shields.io/badge/-Upwork-6FDA44?style=flat&logo=upwork&logoColor=white)](https://www.upwork.com/freelancers/~01e81b6f8b5105f447)
@@ -27,4 +27,4 @@
 
 ---
 
-*"Breaking code before users do."*
+*"Your first line of defense against bugs"*
