@@ -2,7 +2,7 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=00FF00&background=0D111700&vCenter=true&width=435&lines=I'm+Mike+%F0%9F%91%8B;QA+Automation+Engineer;Test+Architect" alt="Typing SVG" /></a>
 
-**Senior QA Automation Engineer | 🎯 Test Architect | CI/CD Enthusiast** 🤖
+**Senior QA Automation Engineer |  Test Architect | AI and CI/CD Enthusiast** 
 
 ---
 
